@@ -1,0 +1,24 @@
+.navcenter{
+    display: flex;
+    flex-direction: row;
+    background-color: slateblue;
+    gap: 15rem;
+    padding: 2rem;
+    font-size: x-large;
+}
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.container{
+    text-align: center;
+    background-color: grey;
+}
+
+.btn{
+    padding: 0.5rem;
+    border-radius: 10px;
+    
+}
